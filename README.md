@@ -1,4 +1,4 @@
-Hi, I’m @cjmartin20 (Colton Martin)
+Hi, I’m @cjmartin20 (Colton Martin)!
 I’m interested in embedded programming, cryptography, networking, bash, and anything I have time to learn.
 How to reach me: cjmartin@eastex.net
 
